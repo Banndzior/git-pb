@@ -83,7 +83,8 @@ git commit -m "Moje zmiany"
 - [ ] Wrzuc zmiany na serwer
 
 ```dos
-git push
+git remote add origin <adres repozytorium>
+git push -u origin master
 ```
 
 - [ ] Spojrz na intro od GitHub
