@@ -1,0 +1,14 @@
+    Directory: C:\pb\git-pb
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----       25.10.2020     13:58                szolek
+d-----       25.10.2020     13:53                tomek1995
+-a----       25.10.2020     12:55         102037 1-podstawy-git.md
+-a----       25.10.2020     13:53           1801 2-galezie.md
+-a----       25.10.2020     13:53            111 A.txt
+-a----       25.10.2020     12:55        5504629 Metodyka DevOps - produkcja i utrzymanie oprogramowania - 1.pdf
+-a----       25.10.2020     12:55        2382691 Metodyka DevOps - produkcja i utrzymanie oprogramowania - 2.pdf
+-a----       25.10.2020     13:53              2 pb.txt
+-a----       25.10.2020     12:55             87 README.md
