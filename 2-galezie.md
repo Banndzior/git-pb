@@ -12,7 +12,7 @@ Opcje:
 * Krok pobierania:
 ```dos
 cd c:\pb\
-https://github.com/Banndzior/git-pb.git
+git clone https://github.com/Banndzior/git-pb.git
 ```
 
 * Krok użycia repozytorium:
