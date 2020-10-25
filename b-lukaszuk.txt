@@ -1,0 +1,12 @@
+total 7892
+drwxrwxr-x 3 oisezc oisezc    4096 Oct 25 11:06 .
+drwxrwxr-x 3 oisezc oisezc    4096 Oct 25 10:10 ..
+-rw-rw-r-- 1 oisezc oisezc  101933 Oct 25 10:10 1-podstawy-git.md
+-rw-rw-r-- 1 oisezc oisezc    1617 Oct 25 10:19 2-galezie.md
+-rw-rw-r-- 1 oisezc oisezc      81 Oct 25 10:10 A.txt
+lrwxrwxrwx 1 oisezc oisezc      37 Oct 25 11:06 .#b-lukaszuk.txt -> oisezc@oisezc-MRC-WX0.1778:1603616042
+-rw-rw-r-- 1 oisezc oisezc     734 Oct 25 11:04 b-lukaszuk.txt
+drwxrwxr-x 8 oisezc oisezc    4096 Oct 25 11:03 .git
+-rw-rw-r-- 1 oisezc oisezc 5504629 Oct 25 10:10 Metodyka DevOps - produkcja i utrzymanie oprogramowania - 1.pdf
+-rw-rw-r-- 1 oisezc oisezc 2382691 Oct 25 10:10 Metodyka DevOps - produkcja i utrzymanie oprogramowania - 2.pdf
+-rw-rw-r-- 1 oisezc oisezc      72 Oct 25 10:10 README.md
