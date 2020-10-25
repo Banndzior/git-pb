@@ -1,0 +1,15 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 1232-6AF9
+
+ Directory of C:\Users\Grzesiek\Desktop\Programowanie\Studia podyplomowe\GIT\Git zajêcia\git-pb
+
+2020-10-25  10:46    <DIR>          .
+2020-10-25  10:46    <DIR>          ..
+2020-10-25  10:09           102 037 1-podstawy-git.md
+2020-10-25  10:46             1 801 2-galezie.md
+2020-10-25  10:09               111 A.txt
+2020-10-25  10:09         5 504 629 Metodyka DevOps - produkcja i utrzymanie oprogramowania - 1.pdf
+2020-10-25  10:09         2 382 691 Metodyka DevOps - produkcja i utrzymanie oprogramowania - 2.pdf
+2020-10-25  10:46                87 README.md
+               6 File(s)      7 991 356 bytes
+               2 Dir(s)  26 128 195 584 bytes free
