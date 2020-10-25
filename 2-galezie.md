@@ -1,3 +1,4 @@
+GIT Lab 2
 
 - [ ] Otwórz okno konsoli/terminalu
 
