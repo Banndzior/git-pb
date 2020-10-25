@@ -1,3 +1,4 @@
+GIT Lab 2
 
 - [ ] Otwórz okno konsoli/terminalu
 
@@ -21,9 +22,9 @@ cd c:\pb\git-pb
 git pull
 ```
 
-- [ ] Stwórz katalog ze swoim loginem GitHub (male litery)
+- [ ] Stwórz katalog ze swoim loginem GitHub (male litery) w pobranym folderze repozytorium git-pb
 
-`Przykladowa sciezka: c:\pb\git-pb\banndzior`
+`Przykladowa sciezka: c:\pb\git-pb\twoj-login-github`
 
 - [ ] W swoim katalogu zamieść dowolne 3 pliki, które nie są za duże
 i treści nie naruszają warunków PB oraz GitHub
@@ -32,12 +33,12 @@ i treści nie naruszają warunków PB oraz GitHub
 
 - [ ] Stwórz branch o nazwie: 'student/' + login GitHub (male litery)
 ```dos
-git branch student/banndzior
+git branch student/twoj-login-github
 ```
 
 - [ ] Przełącz się na stworzony branch
 ```dos
-git checkout student/banndzior
+git checkout student/twoj-login-github
 ```
 
 - [ ] Przygotuj swoje pliki do commita
@@ -57,7 +58,7 @@ git pull
 
 - [ ] Wyślij swoje zmiany na serwer
 ```dos
-git push -u origin student/banndzior
+git push -u origin student/twoj-login-github
 ```
 
 - [ ] Sprawdź czy status nie zawiera, żadnych innych zmian
@@ -75,11 +76,11 @@ git log --oneline --decorate --graph --all
 git checkout <commit>
 ```
 
-- [ ] Wypisz zawartosc katalogu git-pb z konsoli i zapisz w pliku login GitHub, np.: `banndzior.txt`
+- [ ] Wypisz zawartosc katalogu git-pb z konsoli i zapisz w pliku login GitHub, np.: `twoj-login-github.txt`
 
 - [ ] Wroc do swojego brancha
 ```dos
-git checkout student/banndzior
+git checkout student/twoj-login-github
 ```
 
 - [ ] Wrzuc utworzony plik do swojego brancha i GitHub
