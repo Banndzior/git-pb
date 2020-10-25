@@ -1,14 +1,16 @@
+Directory: C:\git-pb\git-pb
+
 
 Mode                 LastWriteTime         Length Name
 ----                 -------------         ------ ----
-d-----        25.10.2020     10:55                maciejgogiel
+d-----        25.10.2020     11:01                maciejgogiel
 -a----        25.10.2020     10:18         102037 1-podstawy-git.md    
 -a----        25.10.2020     10:51           1801 2-galezie.md
 -a----        25.10.2020     10:18            111 A.txt
 -a----        25.10.2020     10:18        5504629 Metodyka DevOps - pro 
                                                   dukcja i utrzymanie o 
                                                   programowania - 1.pdf 
--a----        25.10.2020     10:18        2382691 Metodyka DevOps - pro
+-a----        25.10.2020     10:18        2382691 Metodyka DevOps - pro 
                                                   dukcja i utrzymanie o 
                                                   programowania - 2.pdf 
 -a----        25.10.2020     10:51             87 README.md
