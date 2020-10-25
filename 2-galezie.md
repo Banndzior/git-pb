@@ -78,6 +78,18 @@ git checkout <commit>
 
 - [ ] Wypisz zawartosc katalogu git-pb z konsoli i zapisz w pliku login GitHub, np.: `twoj-login-github.txt`
 
+```dos
+dir
+```
+
+```powershell
+ls
+```
+
+```bash
+ls
+```
+
 - [ ] Wroc do swojego brancha
 ```dos
 git checkout student/twoj-login-github
