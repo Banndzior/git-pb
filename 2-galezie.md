@@ -41,7 +41,7 @@ git branch student/twoj-login-github
 git checkout student/twoj-login-github
 ```
 
-- [ ] Przygotuj swoje pliki do commita
+- [ ] Przygotuj swoje pliki do commita (pliki za katalogu twoj-login-github)
 ```dos
 git add .
 ```
@@ -73,8 +73,10 @@ git log --oneline --decorate --graph --all
 
 - [ ] Cofnij się do commit sprzed twoich zmian na branch
 ```dos
-git checkout <commit>
+git checkout <id-commit>
 ```
+
+`Przyklad: git checkout 345dd07254770d3ddeeed10c9e038116a3952df4`
 
 - [ ] Wypisz zawartosc katalogu git-pb z konsoli i zapisz w pliku login GitHub, np.: `twoj-login-github.txt`
 
