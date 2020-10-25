@@ -1,0 +1,7 @@
+1-podstawy-git.md
+2-galezie.md
+A.txt
+Metodyka DevOps - produkcja i utrzymanie oprogramowania - 1.pdf
+Metodyka DevOps - produkcja i utrzymanie oprogramowania - 2.pdf
+README.md
+szuvi.txt
