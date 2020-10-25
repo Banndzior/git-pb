@@ -83,4 +83,10 @@ git checkout <commit>
 git checkout student/twoj-login-github
 ```
 
-- [ ] Wrzuc utworzony plik do swojego brancha i GitHub
+- [ ] Wrzuc utworzony plik do swojego katalogu, na swoj branch i wyslij na server GitHub
+
+```dos
+git add .
+git commit -m "Moj plik"
+git push origin student/twoj-login-github
+```
