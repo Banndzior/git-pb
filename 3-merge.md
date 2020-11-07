@@ -98,7 +98,7 @@ git checkout master
 git checkout -b hotfix/twoj-login-github
 ```
 
-* [ ] Stwórz ponownie plik (Windows używa notepad.exe / Unix - touch) z wpisanym paragrafem lorem ipsum (https://loremipsum.io/)
+* [ ] Stwórz ponownie plik (Windows używa notepad.exe / Unix - touch) z wpisanym paragrafem lorem ipsum (<https://loremipsum.io/>)
 
 ```dos
 notepad lab-3.txt
