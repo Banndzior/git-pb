@@ -1,4 +1,5 @@
 # GIT JavaScript PB
 
 * [Podstawy git](./1-podstawy-git.md)
-* [Galezie](./2-galezie.md)
+* [Galezie](./2-branch.md)
+* [Merge]
