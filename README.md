@@ -9,10 +9,12 @@
 ## Lab
 
 * [Podstawy git](./1-podstawy-git.md)
-* [Galezie](./2-branch.md)
-* [Merge](./3-merge.md)
+* [Branche](./2-branch.md)
+* [Merge+](./3-merge.md)
 
 ## Ref
 
 1. [CS Visualized: Useful Git Commands](<https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1>)
 2. [A Simple, Visual Git Tutorial](<https://agripongit.vincenttunru.com/>)
+3. [GIT flow](<https://danielkummer.github.io/git-flow-cheatsheet/>)
+4. [GIT mess workflow](<http://justinhileman.info/article/git-pretty/git-pretty.png>)
