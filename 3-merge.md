@@ -130,3 +130,34 @@ git diff feat/twoj-login-github hotfix/twoj-login-github
 git checkout feat/twoj-login-github
 git merge hotfix/twoj-login-github
 ```
+
+* [ ] Wroc na branch hotfix/twoj-login-github i stworz commit odwracajacy zmiany (skopiuj id commita z konsoli)
+
+```dos
+git checkout hotfix/twoj-login-github
+git rev-parse HEAD
+git revert <commit-id>
+```
+
+* [ ] Wyslij swoje 2 branche na serwer
+
+```dos
+git push origin hotfix/twoj-login-github
+git push origin feat/twoj-login-github
+```
+
+* [ ] Znajdz commit, w ktorym byl dodany katalog z twoj-login-github i jego zawartosc
+
+```dos
+git rev-list --all --pretty=oneline -- "*/twoj-login-github*"
+```
+
+* [ ] Zaimportuj commit do swojego branch feat/twoj-login-github
+
+```dos
+git cherry-pick <commit-id>
+```
+
+* [ ] Stwórz Pull Request ze zmian na feat/twoj-login-github na stronie GitHub
+
+`https://github.com/Banndzior/git-pb/compare`
