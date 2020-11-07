@@ -111,16 +111,22 @@ git add lab-3.txt
 git commit -m "Moj plik z hotfix"
 ```
 
-* [ ] Zmerguj branch feat/twoj-login-github z master (no conflicts, fast-forward)
+* [ ] Połącz branch feat/twoj-login-github z master (no conflicts, fast-forward)
 
 ```dos
 git checkout master
 git merge feat/twoj-login-github
 ```
 
-* [ ] Zmerguj branch hotfix/twoj-login-github z feat/twoj-login-github (conflicts, merge commit)
+* [ ] Porównaj branch hotfix/twoj-login-github z feat/twoj-login-github (conflicts, merge commit)
 
 ```dos
-git checkout master
-git merge feat/twoj-login-github
+git diff feat/twoj-login-github hotfix/twoj-login-github
+```
+
+* [ ] Połącz branch hotfix/twoj-login-github z feat/twoj-login-github (conflicts, merge commit)
+
+```dos
+git checkout feat/twoj-login-github
+git merge hotfix/twoj-login-github
 ```
