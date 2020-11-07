@@ -163,4 +163,12 @@ git cherry-pick <commit-id>
 
 `https://github.com/Banndzior/git-pb/compare`
 
-* [ ] Zmodyfikuj plik git ignore
+* [ ] Dodaj plik lab.txt
+
+```dos
+notepad lab.txt
+```
+
+* [ ] Zmodyfikuj plik git ignore i dodaj do niego lab.txt
+
+* [ ] Zrob commit z git ignore i wyslij zmiany na serwer

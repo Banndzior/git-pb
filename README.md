@@ -2,9 +2,9 @@
 
 ## Wykłady
 
-* [Wykład 1](./Metodyka%2520DevOps%2520-%2520produkcja%2520i%2520utrzymanie%2520oprogramowania%2520-%25201.pdf)
-* [Wykład 2](./Metodyka%2520DevOps%2520-%2520produkcja%2520i%2520utrzymanie%2520oprogramowania%2520-%25202.pdf)
-* [Wykład 3](./Metodyka%2520DevOps%2520-%2520produkcja%2520i%2520utrzymanie%2520oprogramowania%2520-%25203.pdf)
+* [Wykład 1](./Metodyka%20DevOps%20-%20produkcja%20i%20utrzymanie%20oprogramowania%20-%201.pdf)
+* [Wykład 2](./Metodyka%20DevOps%20-%20produkcja%20i%20utrzymanie%20oprogramowania%20-%202.pdf)
+* [Wykład 3](./Metodyka%20DevOps%20-%20produkcja%20i%20utrzymanie%20oprogramowania%20-%203.pdf)
 
 ## Lab
 
