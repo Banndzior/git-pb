@@ -38,7 +38,7 @@ git pull
 git reset --hard
 ```
 
-* [ ] Usuń nieśledzone pliki
+* [ ] Usuń nieśledzone pliki (<https://coderwall.com/p/g16jpq/keep-your-git-directory-clean-with-git-clean-and-git-trash>)
 
 ```dos
 git clean -fd
