@@ -162,3 +162,5 @@ git cherry-pick <commit-id>
 * [ ] Stwórz Pull Request ze zmian na feat/twoj-login-github na stronie GitHub
 
 `https://github.com/Banndzior/git-pb/compare`
+
+* [ ] Zmodyfikuj plik git ignore
