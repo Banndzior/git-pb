@@ -1,8 +1,9 @@
-GIT Lab 2
+# Branche
 
 - [ ] Otwórz okno konsoli/terminalu
 
 Opcje:
+
 * cmd.exe / powershell.exe
 * Windows Terminal
 * Terminal / Shell
@@ -11,12 +12,14 @@ Opcje:
 - [ ] Pobierz lub użyj istniejącego repozytorium git-pb
 
 * Krok pobierania:
+
 ```dos
 cd c:\pb\
 git clone https://github.com/Banndzior/git-pb.git
 ```
 
 * Krok użycia repozytorium:
+
 ```dos
 cd c:\pb\git-pb
 git pull
@@ -32,46 +35,55 @@ i treści nie naruszają warunków PB oraz GitHub
 `Przykladowe pliki: 1 tekstowy, 1 obrazek, 1 javascript`
 
 - [ ] Stwórz branch o nazwie: 'student/' + login GitHub (male litery)
+
 ```dos
 git branch student/twoj-login-github
 ```
 
 - [ ] Przełącz się na stworzony branch
+
 ```dos
 git checkout student/twoj-login-github
 ```
 
 - [ ] Przygotuj swoje pliki do commita (pliki za katalogu twoj-login-github)
+
 ```dos
 git add .
 ```
 
 - [ ] Zrób commit z opisem swoich zmian
+
 ```dos
 git commit -m "Moje zmiany"
 ```
 
 - [ ] Pobierz zmiany z serwera
+
 ```dos
 git pull
 ```
 
 - [ ] Wyślij swoje zmiany na serwer
+
 ```dos
 git push -u origin student/twoj-login-github
 ```
 
 - [ ] Sprawdź czy status nie zawiera, żadnych innych zmian
+
 ```dos
 git status
 ```
 
 - [ ] Sprawdź historie zmian
+
 ```dos
 git log --oneline --decorate --graph --all
 ```
 
 - [ ] Cofnij się do commit sprzed twoich zmian na branch
+
 ```dos
 git checkout <id-commit>
 ```
@@ -93,6 +105,7 @@ ls
 ```
 
 - [ ] Wroc do swojego brancha
+
 ```dos
 git checkout student/twoj-login-github
 ```
