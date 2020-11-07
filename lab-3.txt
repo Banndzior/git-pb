@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 awdawdawf
-=======
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Est sit amet facilisis magna etiam tempor. Morbi enim nunc faucibus a pellentesque sit. Neque volutpat ac tincidunt vitae semper quis lectus nulla. Pellentesque pulvinar pellentesque habitant morbi tristique senectus et netus. Eget nullam non nisi est. Tempus imperdiet nulla malesuada pellentesque elit eget gravida. Sapien nec sagittis aliquam malesuada bibendum arcu vitae. Tempus imperdiet nulla malesuada pellentesque elit eget. Sollicitudin aliquam ultrices sagittis orci a scelerisque. Curabitur vitae nunc sed velit dignissim sodales ut eu. Erat imperdiet sed euismod nisi.
->>>>>>> hotfix/12345kamil
