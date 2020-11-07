@@ -155,6 +155,7 @@ git rev-list --all --pretty=oneline -- "*/twoj-login-github*"
 * [ ] Zaimportuj commit do swojego branch feat/twoj-login-github
 
 ```dos
+git checkout feat/twoj-login-github
 git cherry-pick <commit-id>
 ```
 
