@@ -15,19 +15,19 @@ Opcje:
 
 ```dos
 cd c:\pb\
-git clone https://github.com/Banndzior/git-pb-2
+git clone https://github.com/Banndzior/git-pb
 ```
 
 * Krok użycia repozytorium:
 
 ```dos
-cd c:\pb\git-pb-2
+cd c:\pb\git-pb
 git pull
 ```
 
 * [ ] Stwórz katalog ze swoim loginem GitHub (male litery) w pobranym folderze repozytorium git-pb
 
-`Przykladowa sciezka: c:\pb\git-pb-2\twoj-login-github`
+`Przykladowa sciezka: c:\pb\git-pb\twoj-login-github`
 
 * [ ] W swoim katalogu zamieść dowolne 3 pliki, które nie są za duże
 i treści nie naruszają warunków PB oraz GitHub
@@ -129,7 +129,7 @@ git push
 
 * [ ] Utworz Pull Request swojego brancha do main
 
-https://github.com/Banndzior/git-pb-2/compare
+https://github.com/Banndzior/git-pb/compare
 
 * [ ] Utworz branch hotfix/twoj-login-github z twojego brancha
 
