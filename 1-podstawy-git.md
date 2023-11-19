@@ -2,7 +2,7 @@
 
 ## Instalacja / Konfiguracja
 
-* [X] Zainstaluj git
+* [ ] Zainstaluj git
 
 
 | OS | Install |
