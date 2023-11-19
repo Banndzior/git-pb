@@ -1,0 +1,5 @@
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        19.11.2023     16:01              5 czesc.txt
+-a----        19.11.2023     16:01              0 plikjavascript.js
+-a----        19.11.2023     16:01         250842 zdjecie987.png
