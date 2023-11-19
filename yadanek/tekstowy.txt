@@ -1,1 +1,18 @@
 to jest przykładowy plik tekstowy
+
+    Directory: C:\Users\di\git\git-pb
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        19.11.2023     15:34                static
+d-----        19.11.2023     15:43                yadanek
+-a----        19.11.2023     15:34           2243 1-podstawy-git.md
+-a----        19.11.2023     15:34           2857 2-branch.md
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        19.11.2023     15:34                static
+d-----        19.11.2023     15:43                yadanek
+-a----        19.11.2023     15:34           2243 1-podstawy-git.md
+-a----        19.11.2023     15:34           2857 2-branch.md
