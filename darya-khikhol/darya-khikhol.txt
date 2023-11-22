@@ -1,0 +1,6 @@
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        19.11.2023     15:54                darya-khikhol
+d-----        19.11.2023     15:35                static
+-a----        19.11.2023     15:35           2243 1-podstawy-git.md
+-a----        19.11.2023     15:35           2857 2-branch.md
